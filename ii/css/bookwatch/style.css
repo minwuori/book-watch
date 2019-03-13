@@ -458,7 +458,7 @@ main {
   top: 5px;
   left: 5px;
   z-index: 1;
-  background-image: url("ii/img/bookwatch/lightCheck.svg");
+  background-image: url("/book-watch/ii/img/bookwatch/lightCheck.svg");
   border-radius: 31px;
   transition: all 0.4s ease;
   box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.3);
@@ -468,7 +468,7 @@ main {
 }
 .check input[type=checkbox]:checked + label {
   left: 40px;
-  background-image: url("ii/img/bookwatch/darkCheck.svg");
+  background-image: url("/book-watch/ii/img/bookwatch/darkCheck.svg");
  }
 
 
@@ -564,7 +564,7 @@ main {
   right: -130px;
   width: 378px;
   height: 512px;
-  background: url(ii/img/bookwatch/owl-bg2.svg) center no-repeat;
+  background: url(/book-watch/ii/img/bookwatch/owl-bg2.svg) center no-repeat;
   pointer-events: none;
 }
 
